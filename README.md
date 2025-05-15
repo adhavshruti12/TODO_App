@@ -19,7 +19,7 @@ A full-stack task manager application where users can sign up, log in, and manag
 *Pending tasks*
 
 ![Main Dashboard](/img5.png)
-*After Log out and aslo shwoing use of toggle to switch white background*
+*use of toggle to switch white background*
 
 
 
